@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainMinerMultiplayerFix", "MountainMinerMultiplayerFix.csproj", "{860562B6-8EB5-4A56-82BA-F07E1C11CA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860562B6-8EB5-4A56-82BA-F07E1C11CA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860562B6-8EB5-4A56-82BA-F07E1C11CA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860562B6-8EB5-4A56-82BA-F07E1C11CA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860562B6-8EB5-4A56-82BA-F07E1C11CA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A1615EC-868E-4E72-BCA4-30C6A00C135C}
+	EndGlobalSection
+EndGlobal

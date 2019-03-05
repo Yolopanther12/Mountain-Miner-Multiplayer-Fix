@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>MountainMinerMultiplayerFix</identifier>
+  <version>1.0</version>
+  <manifestUri></manifestUri>
+  <downloadUri></downloadUri>
+
+  <dependencies>
+  	<li>MountainMiner1.0</li>
+  </dependencies>
+
+</Manifest>
