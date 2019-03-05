@@ -2,7 +2,7 @@
 <Manifest>
   <identifier>MountainMinerMultiplayerFix</identifier>
   <version>1.0</version>
-  <manifestUri>https://github.com/Yolopanther12/Mountain-Miner-Multiplayer-Fix/blob/master/About/Manifest.xml</manifestUri>
+  <manifestUri>https://raw.githubusercontent.com/Yolopanther12/Mountain-Miner-Multiplayer-Fix/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/Yolopanther12/Mountain-Miner-Multiplayer-Fix</downloadUri>
 
   <dependencies>
